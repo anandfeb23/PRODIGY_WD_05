@@ -1,4 +1,4 @@
-## Simple Weather App [Live]("https://appweather05.netlify.app/")
+## Simple Weather App [Live](https://appweather05.netlify.app/)
 This is a simple weather app that provides the current weather information for a given city. It displays the temperature in Celsius along with humidity, region, and country details.
 
 ## Features
